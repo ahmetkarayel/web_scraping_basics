@@ -6,3 +6,12 @@ Web kazıma (Web Scraping), internet üzerinden bilgi toplamak için kullanılan
 
 ![Untitled](web-scraping-2.png)
 
+
+# Web Scraping Kullanım Alanları
+
+* Emlak Siteleri
+* Karşılaştırmalı Alışveriş Siteleri
+* Sosyal Medya Verileri
+* Finans Siteleri
+
+
